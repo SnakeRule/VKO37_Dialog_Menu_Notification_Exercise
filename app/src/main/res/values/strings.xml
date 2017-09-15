@@ -6,4 +6,7 @@
     <string name="cancel">Cancel</string>
     <string name="create">Create</string>
     <string name="notificationTitle">New timed notification!</string>
+    <string name="QuitDialogTitle">Are you sure you want to quit?</string>
+    <string name="Quit">Quit</string>
+    <string name="feeback">Send Feedback</string>
 </resources>

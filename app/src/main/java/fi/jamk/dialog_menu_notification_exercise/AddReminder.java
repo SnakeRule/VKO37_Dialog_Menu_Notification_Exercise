@@ -28,7 +28,6 @@ public class AddReminder {
                 .setAutoCancel(true);
 
         Notification notification = builder.build();
-
         Intent notificationIntent = new Intent(context, MyNotificationPublisher.class);
         notificationIntent.putExtra(MyNotificationPublisher.NOTIFICATION_ID, notificationId);
         notificationIntent.putExtra(MyNotificationPublisher.NOTIFICATION, notification);
