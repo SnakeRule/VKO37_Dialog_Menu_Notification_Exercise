@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dialog_Menu_Notification_Exercise</string>
+    <string name="addRem">Add reminder</string>
+    <string name="remWhen">Remind me in</string>
+    <string name="remDialogTitle">Add Reminder</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="notificationTitle">New timed notification!</string>
+</resources>
